@@ -1,2 +1,2 @@
 # JMSChat
-Simple chat (JMS) 
+Simple chat by using JMS API and java Swing. 
